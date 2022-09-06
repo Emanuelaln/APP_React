@@ -4,7 +4,6 @@ import Pessoa from "./Pessoa"
 function HellWorld(){
     return (
         <div>
-            <Frase/>
             <h1> Meu primeiro Componente</h1>        
             <SayMyName nome ="Matheus"/>
             <Pessoa 
